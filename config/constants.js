@@ -1,7 +1,7 @@
 module.exports = {
-  'base_url': 'https://vast-taiga-29858.herokuapp.com',
+  'base_url': 'https://nameless-earth-56961.herokuapp.com',
   'secret':'nodeauthsecret',
-  'frommail': 'eduardlebedenko80@gmail.com',
+  'frommail': 'ding@@dinnerbell.us',
   'mailgun': {
     'api_key' : 'key-0e4228878343f000e39d52fff01ff844',
     'DOMAIN' : 'mail.dinnerbell.co',
@@ -11,14 +11,7 @@ module.exports = {
   'twilio': {
     'accountSid': 'AC14d0d32ed6c82130acc0140118f445af',
     'authToken': '1c16b2c6684735a6e57935f8c93115f4',
-    
-    // A Twilio number you control - choose one from:
-    // https://www.twilio.com/user/account/phone-numbers/incoming
-    // Specify in E.164 format, e.g. "+16519998877"
     'twilioNumber': '+13472066278',
-    
-    // Your Authy production key - this can be found on the dashboard for your
-    // Authy application
     'authyKey': 'gqCDyQhbxrdOKVus0G120RSkOprWUMsy',
   },
   'service': {
