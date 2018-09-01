@@ -840,22 +840,22 @@ webpackJsonp([2], {
                         phone: this.user.phone_number,
                         country_code: this.user.country_code
                     }).subscribe(function(n) {
-                        l.user.authyId = -1, n.success ? (l.message = "You should confirm code within 1 minutes", l.phone_code_sent = n.success, l.user.authyId = n.data.authyId) : l.message = "Cannot send Verification Code, try again"
-                    })) : this.message = "Invalid PhoneNumber" : this.message = "Email validation faild"
+                        l.user.authyId = -1, n.success ? (l.message = "Please check your text messages. Received code will expire in 1 minute", l.phone_code_sent = n.success, l.user.authyId = n.data.authyId) : l.message = "Cannot send verification code, try again"
+                    })) : this.message = "Invalid phone number" : this.message = "Email validation failed"
                 }, l.prototype.confirmCode = function() {
                     var l = this;
                     this.authservice.verifyAuthyToken({
                         confirmcode: this.phone_vcode,
                         authyId: this.user.authyId
                     }).subscribe(function(n) {
-                        n.success ? (l.message = null, l.phone_verified = n.success) : l.message = "Invalid Verification code, try again"
+                        n.success ? (l.message = null, l.phone_verified = n.success) : l.message = "Invalid verification code, try again"
                     })
                 }, l.prototype.validateForm = function() {
                     var l = this.user.email,
                         n = this.user.password;
-                    return n !== this.user.password_conf ? (this.message = "Password confirmation did not matched", !1) : !(!this.checkPasswordStrenth(n) || (this.phone_verified ? !this.validateEmail(l) && (this.message = "Email validation faild", 1) : (this.message = "You have to do verify phone", 1)))
+                    return n !== this.user.password_conf ? (this.message = "Passwords did not matched", !1) : !(!this.checkPasswordStrenth(n) || (this.phone_verified ? !this.validateEmail(l) && (this.message = "Email validation failed", 1) : (this.message = "You have to do verify phone", 1)))
                 }, l.prototype.checkPasswordStrenth = function(l) {
-                    if (l.length < 6) return this.message = "Password must be at least 6 letters", !1;
+                    if (l.length < 6) return this.message = "Password should be at least 6 characters long", !1;
                     for (var n = !1, e = !1, u = !1, t = 0; t < l.length; t++) {
                         var o = l.charAt(t);
                         o >= "A" && o <= "Z" && (n = !0), o >= "0" && o <= "9" && (u = !0);
@@ -878,7 +878,7 @@ webpackJsonp([2], {
             return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, null, 1, "div", [
                 ["class", "alert alert-danger"],
                 ["role", "alert"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](1, null, ["\n                ", "\n            "]))], null, function(l, n) {
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](1, null, ["\n", "\n"]))], null, function(l, n) {
                 l(n, 1, 0, n.component.message)
             })
         }
@@ -886,13 +886,13 @@ webpackJsonp([2], {
         function D(l) {
             return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, null, 14, "div", [
                 ["class", "input-group mb-3"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n              "])), (l()(), u["\u0275eld"](2, 0, null, null, 4, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, null, 4, "div", [
                 ["class", "input-group-prepend"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n                "])), (l()(), u["\u0275eld"](4, 0, null, null, 1, "span", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, null, 1, "span", [
                 ["class", "input-group-text"]
             ], null, null, null, null, null)), (l()(), u["\u0275eld"](5, 0, null, null, 0, "i", [
                 ["class", "icon-user"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n              "])), (l()(), u["\u0275ted"](-1, null, ["\n              "])), (l()(), u["\u0275eld"](8, 0, null, null, 5, "input", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, null, 5, "input", [
                 ["class", "form-control"],
                 ["placeholder", "Username"],
                 ["type", "text"]
