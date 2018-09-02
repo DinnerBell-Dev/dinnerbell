@@ -365,40 +365,40 @@ data: {}
 function d(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 39, "div", [
 ["class", "app flex-row align-items-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](2, 0, null, 36, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](2, 0, null, 36, "div", [
 ["class", "container"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](4, 0, null, 33, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](4, 0, null, 33, "div", [
 ["class", "row justify-content-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](6, 0, null, 30, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](6, 0, null, 30, "div", [
 ["class", "col-md-6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](8, 0, null, 10, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](8, 0, null, 10, "div", [
 ["class", "clearfix"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](10, 0, null, 1, "h1", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](10, 0, null, 1, "h1", [
 ["class", "float-left display-3 mr-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["404"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](13, 0, null, 1, "h4", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["404"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](13, 0, null, 1, "h4", [
 ["class", "pt-3"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Oops! You're lost."])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](16, 0, null, 1, "p", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Oops! You're lost."])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](16, 0, null, 1, "p", [
 ["class", "text-muted"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["The page you are looking for was not found."])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](20, 0, null, 15, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["The page you are looking for was not found."])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](20, 0, null, 15, "div", [
 ["class", "input-prepend input-group"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](22, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](22, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](24, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](24, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](25, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](25, 0, null, 0, "i", [
 ["class", "fa fa-search"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](28, 0, null, 0, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](28, 0, null, 0, "input", [
 ["class", "form-control"],
 ["id", "prependedInput"],
 ["placeholder", "What are you looking for?"],
 ["size", "16"],
 ["type", "text"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](30, 0, null, 4, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](30, 0, null, 4, "span", [
 ["class", "input-group-append"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](32, 0, null, 1, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](32, 0, null, 1, "button", [
 ["class", "btn btn-info"],
 ["type", "button"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Search"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"]))], null, null)
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Search"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"]))], null, null)
 }
 var a = u["\u0275ccf"]("ng-component", o, function(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 1, "ng-component", [], null, null, d, i)), u["\u0275did"](1, 49152, null, 0, o, [], null, null)], null, null)
@@ -413,40 +413,40 @@ data: {}
 function c(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 39, "div", [
 ["class", "app flex-row align-items-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 36, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 36, "div", [
 ["class", "container"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 33, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 33, "div", [
 ["class", "row justify-content-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 30, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 30, "div", [
 ["class", "col-md-6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 10, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 10, "div", [
 ["class", "clearfix"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](10, 0, null, 1, "h1", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](10, 0, null, 1, "h1", [
 ["class", "float-left display-3 mr-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["500"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](13, 0, null, 1, "h4", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["500"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](13, 0, null, 1, "h4", [
 ["class", "pt-3"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Houston, we have a problem!"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](16, 0, null, 1, "p", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Houston, we have a problem!"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](16, 0, null, 1, "p", [
 ["class", "text-muted"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["The page you are looking for is temporarily unavailable."])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](20, 0, null, 15, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["The page you are looking for is temporarily unavailable."])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](20, 0, null, 15, "div", [
 ["class", "input-prepend input-group"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](22, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](22, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](24, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](24, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](25, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](25, 0, null, 0, "i", [
 ["class", "fa fa-search"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](28, 0, null, 0, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](28, 0, null, 0, "input", [
 ["class", "form-control"],
 ["id", "prependedInput"],
 ["placeholder", "What are you looking for?"],
 ["size", "16"],
 ["type", "text"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](30, 0, null, 4, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](30, 0, null, 4, "span", [
 ["class", "input-group-append"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](32, 0, null, 1, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](32, 0, null, 1, "button", [
 ["class", "btn btn-info"],
 ["type", "button"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Search"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"]))], null, null)
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Search"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"]))], null, null)
 }
 var p = u["\u0275ccf"]("ng-component", s, function(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 1, "ng-component", [], null, null, c, r)), u["\u0275did"](1, 49152, null, 0, s, [], null, null)], null, null)
@@ -468,7 +468,7 @@ password: ""
 }, l.prototype.login = function() {
 var l = this;
 this.authservice.login(this.user).subscribe(function(n) {
-n.success ? (l.authservice.isLoggedIn = !0, l.authservice.current_user = n.data.user, l.router.navigate(["super_visior" === l.authservice.current_user.role ? "/dashboard/super/usermanage" : "/dashboard/admin/account_setting"], {
+n.success ? (l.authservice.isLoggedIn = !0, l.authservice.current_user = n.data.user, l.router.navigate(["Supervisor" === l.authservice.current_user.role ? "/dashboard/super/usermanage" : "/dashboard/admin/account_setting"], {
 queryParamsHandling: "preserve",
 preserveFragment: !0
 })) : l.message = n.error.message
@@ -485,7 +485,7 @@ function y(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 1, "div", [
 ["class", "alert alert-danger"],
 ["role", "alert"]
-], null, null, null)), (l()(), u["\u0275ted"](1, null, ["\n", "\n"]))], null, function(l, n) {
+], null, null)), (l()(), u["\u0275ted"](1, null, ["\n", "\n"]))], null, function(l, n) {
 l(n, 1, 0, n.component.message)
 })
 }
@@ -493,29 +493,29 @@ l(n, 1, 0, n.component.message)
 function b(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 94, "div", [
 ["class", "app flex-row align-items-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 91, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 91, "div", [
 ["class", "container"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 88, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 88, "div", [
 ["class", "row justify-content-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 85, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 85, "div", [
 ["class", "col-md-8"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 82, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 82, "div", [
 ["class", "card-group mb-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](10, 0, null, 59, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](10, 0, null, 59, "div", [
 ["class", "card p-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](12, 0, null, 56, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](12, 0, null, 56, "div", [
 ["class", "card-body"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](14, 0, null, 1, "h1", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Login"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, y)), u["\u0275did"](18, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](14, 0, null, 1, "h1", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["Login"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, y)), u["\u0275did"](18, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
 ngIf: [0, "ngIf"]
 }, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](20, 0, null, 14, "div", [
 ["class", "input-group mb-3"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](22, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](22, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](24, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](24, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](25, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](25, 0, null, 0, "i", [
 ["class", "icon-user"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](28, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](28, 0, null, 5, "input", [
 ["class", "form-control"],
 ["placeholder", "Email or phone number"],
 ["type", "text"]
@@ -550,13 +550,13 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](33, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](36, 0, null, 14, "div", [
 ["class", "input-group mb-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](38, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](38, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](40, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](40, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](41, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](41, 0, null, 0, "i", [
 ["class", "icon-lock"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](44, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](44, 0, null, 5, "input", [
 ["class", "form-control"],
 ["placeholder", "Password"],
 ["type", "password"]
@@ -591,9 +591,9 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](49, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](52, 0, null, 15, "div", [
 ["class", "row"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](54, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](54, 0, null, 4, "div", [
 ["class", "col-6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](56, 0, null, 1, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](56, 0, null, 1, "button", [
 ["class", "btn btn-primary px-4"],
 ["type", "button"]
 ], null, [
@@ -603,7 +603,7 @@ var u = !0;
 return "click" === n && (u = !1 !== l.component.login() && u), u
 }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Login"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](60, 0, null, 6, "div", [
 ["class", "col-6 text-right"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](62, 0, null, 3, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](62, 0, null, 3, "button", [
 ["class", "btn btn-link px-0"],
 ["type", "button"]
 ], null, [
@@ -616,9 +616,9 @@ routerLink: [0, "routerLink"]
 }, null), u["\u0275pad"](64, 1), (l()(), u["\u0275ted"](-1, null, ["Forgot password?"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](71, 0, null, 18, "div", [
 ["class", "card text-white bg-primary py-5 d-md-down-none"],
 ["style", "width:44%"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](73, 0, null, 15, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](73, 0, null, 15, "div", [
 ["class", "card-body text-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](75, 0, null, 12, "div", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](77, 0, null, 1, "h2", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Sign up"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](80, 0, null, 1, "p", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["DinnerBell."])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](83, 0, null, 3, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](75, 0, null, 12, "div", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](77, 0, null, 1, "h2", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["Sign up"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](80, 0, null, 1, "p", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["DinnerBell."])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](83, 0, null, 3, "button", [
 ["class", "btn btn-primary active mt-3"],
 ["type", "button"]
 ], null, [
@@ -878,7 +878,7 @@ function x(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 1, "div", [
 ["class", "alert alert-danger"],
 ["role", "alert"]
-], null, null, null)), (l()(), u["\u0275ted"](1, null, ["\n", "\n"]))], null, function(l, n) {
+], null, null)), (l()(), u["\u0275ted"](1, null, ["\n", "\n"]))], null, function(l, n) {
 l(n, 1, 0, n.component.message)
 })
 }
@@ -886,13 +886,13 @@ l(n, 1, 0, n.component.message)
 function D(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 14, "div", [
 ["class", "input-group mb-3"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](5, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](5, 0, null, 0, "i", [
 ["class", "icon-user"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 5, "input", [
 ["class", "form-control"],
 ["placeholder", "Username"],
 ["type", "text"]
@@ -933,7 +933,7 @@ l(n, 8, 0, u["\u0275nov"](n, 13).ngClassUntouched, u["\u0275nov"](n, 13).ngClass
 }
 
 function U(l) {
-return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 3, "option", [], null, null, null)), u["\u0275did"](1, 147456, null, 0, h.NgSelectOption, [u.ElementRef, u.Renderer2, [2, h.SelectControlValueAccessor]], {
+return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 3, "option", [], null, null)), u["\u0275did"](1, 147456, null, 0, h.NgSelectOption, [u.ElementRef, u.Renderer2, [2, h.SelectControlValueAccessor]], {
 value: [0, "value"]
 }, null), u["\u0275did"](2, 147456, null, 0, h["\u0275q"], [u.ElementRef, u.Renderer2, [8, null]], {
 value: [0, "value"]
@@ -947,13 +947,13 @@ l(n, 3, 0, n.context.$implicit.name)
 function L(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 23, "div", [
 ["class", "input-group mb-4 role_div"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](5, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](5, 0, null, 0, "i", [
 ["class", "icon-user-following"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 14, "select", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 14, "select", [
 ["class", "custom-select form-control"]
 ], [
 [2, "ng-untouched", null],
@@ -985,7 +985,7 @@ update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](13, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](15, 0, null, 3, "option", [
 ["selected", ""],
 ["value", "-1"]
-], null, null, null)), u["\u0275did"](16, 147456, null, 0, h.NgSelectOption, [u.ElementRef, u.Renderer2, [2, h.SelectControlValueAccessor]], {
+], null, null)), u["\u0275did"](16, 147456, null, 0, h.NgSelectOption, [u.ElementRef, u.Renderer2, [2, h.SelectControlValueAccessor]], {
 value: [0, "value"]
 }, null), u["\u0275did"](17, 147456, null, 0, h["\u0275q"], [u.ElementRef, u.Renderer2, [8, null]], {
 value: [0, "value"]
@@ -1002,45 +1002,45 @@ l(n, 8, 0, u["\u0275nov"](n, 13).ngClassUntouched, u["\u0275nov"](n, 13).ngClass
 function F(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 18, "div", [
 ["class", "card-footer p-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 15, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 15, "div", [
 ["class", "row"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 5, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 5, "div", [
 ["class", "col-6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 2, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 2, "button", [
 ["class", "btn btn-block btn-facebook"],
 ["type", "button"]
-], null, null, null)), (l()(), u["\u0275eld"](7, 0, null, 1, "span", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["facebook"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](11, 0, null, 5, "div", [
+], null, null)), (l()(), u["\u0275eld"](7, 0, null, 1, "span", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["facebook"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](11, 0, null, 5, "div", [
 ["class", "col-6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](13, 0, null, 2, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](13, 0, null, 2, "button", [
 ["class", "btn btn-block btn-twitter"],
 ["type", "button"]
-], null, null, null)), (l()(), u["\u0275eld"](14, 0, null, 1, "span", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["twitter"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"]))], null, null)
+], null, null)), (l()(), u["\u0275eld"](14, 0, null, 1, "span", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["twitter"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"]))], null, null)
 }
 
 function G(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 133, "div", [
 ["class", "app flex-row align-items-center register_component"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 130, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 130, "div", [
 ["class", "container"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 127, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 127, "div", [
 ["class", "row justify-content-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 124, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 124, "div", [
 ["class", "col-md-6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 121, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 121, "div", [
 ["class", "card mx-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](10, 0, null, 115, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](10, 0, null, 115, "div", [
 ["class", "card-body p-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](12, 0, null, 1, "h1", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Register"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, x)), u["\u0275did"](16, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](12, 0, null, 1, "h1", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["Register"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, x)), u["\u0275did"](16, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
 ngIf: [0, "ngIf"]
 }, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, D)), u["\u0275did"](19, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
 ngIf: [0, "ngIf"]
 }, null), (l()(), u["\u0275ted"](-1, null, ["\n\n"])), (l()(), u["\u0275eld"](21, 0, null, 14, "div", [
 ["class", "input-group mb-3"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](23, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](23, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](25, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](25, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["@"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](29, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["@"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](29, 0, null, 5, "input", [
 ["class", "form-control"],
 ["placeholder", "Email"],
 ["type", "text"]
@@ -1075,17 +1075,17 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](34, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n\n"])), (l()(), u["\u0275eld"](37, 0, null, 32, "div", [
 ["class", "input-group mb-3"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](39, 0, null, 2, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](39, 0, null, 2, "span", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275eld"](40, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275eld"](40, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](41, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](41, 0, null, 0, "i", [
 ["class", "fa fa-phone"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](43, 0, null, 2, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](43, 0, null, 2, "span", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275eld"](44, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275eld"](44, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["+"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](47, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["+"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](47, 0, null, 5, "input", [
 ["class", "form-control country_code col-sm-2"],
 ["type", "text"]
 ], [
@@ -1153,13 +1153,13 @@ model: [1, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](59, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](61, 0, null, 7, "div", [
 ["class", "input-group-append"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](63, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](63, 0, null, 1, "span", [
 ["class", "input-group-text"]
 ], [
 [8, "hidden", 0]
-], null, null, null)), (l()(), u["\u0275eld"](64, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](64, 0, null, 0, "i", [
 ["class", "icon-check"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](66, 0, null, 1, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](66, 0, null, 1, "button", [
 ["class", "btn btn-primary"],
 ["type", "submit"]
 ], [
@@ -1173,7 +1173,7 @@ return "click" === n && (u = !1 !== l.component.sendCode() && u), u
 ["class", "input-group mb-3"]
 ], [
 [8, "hidden", 0]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](73, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](73, 0, null, 5, "input", [
 ["class", "form-control"],
 ["placeholder", "Verification Code"],
 ["type", "text"]
@@ -1208,7 +1208,7 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](78, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](80, 0, null, 4, "div", [
 ["class", "input-group-append"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](82, 0, null, 1, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](82, 0, null, 1, "button", [
 ["class", "btn btn-success"],
 ["type", "submit"]
 ], null, [
@@ -1218,13 +1218,13 @@ var u = !0;
 return "click" === n && (u = !1 !== l.component.confirmCode() && u), u
 }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Confirm"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](87, 0, null, 15, "div", [
 ["class", "input-group mb-3"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](89, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](89, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](91, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](91, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](92, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](92, 0, null, 0, "i", [
 ["class", "icon-lock"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](95, 16777216, null, 6, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](95, 16777216, null, 6, "input", [
 ["class", "form-control"],
 ["placeholder", "Password"],
 ["tooltip", "uppercase letter, lowercase letter, digit and one of the following characters !@#$%^&*()-+"],
@@ -1262,13 +1262,13 @@ update: "ngModelChange"
 tooltip: [0, "tooltip"]
 }, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n\n"])), (l()(), u["\u0275eld"](104, 0, null, 14, "div", [
 ["class", "input-group mb-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](106, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](106, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](108, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](108, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](109, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](109, 0, null, 0, "i", [
 ["class", "icon-lock"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](112, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](112, 0, null, 5, "input", [
 ["class", "form-control"],
 ["placeholder", "Repeat password"],
 ["type", "password"]
@@ -1404,13 +1404,13 @@ function q(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 1, "div", [
 ["class", "alert alert-danger"],
 ["role", "alert"]
-], null, null, null)), (l()(), u["\u0275ted"](1, null, ["\n", "\n"]))], null, function(l, n) {
+], null, null)), (l()(), u["\u0275ted"](1, null, ["\n", "\n"]))], null, function(l, n) {
 l(n, 1, 0, n.component.message)
 })
 }
 
 function H(l) {
-return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 3, "option", [], null, null, null)), u["\u0275did"](1, 147456, null, 0, h.NgSelectOption, [u.ElementRef, u.Renderer2, [2, h.SelectControlValueAccessor]], {
+return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 3, "option", [], null, null)), u["\u0275did"](1, 147456, null, 0, h.NgSelectOption, [u.ElementRef, u.Renderer2, [2, h.SelectControlValueAccessor]], {
 value: [0, "value"]
 }, null), u["\u0275did"](2, 147456, null, 0, h["\u0275q"], [u.ElementRef, u.Renderer2, [8, null]], {
 value: [0, "value"]
@@ -1424,7 +1424,7 @@ l(n, 3, 0, n.context.$implicit)
 function W(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 8, "div", [
 ["class", "form-group col-sm-2"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "country_code"],
 ["placeholder", "Country Code"],
@@ -1468,7 +1468,7 @@ l(n, 2, 0, u["\u0275nov"](n, 7).ngClassUntouched, u["\u0275nov"](n, 7).ngClassTo
 function J(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 8, "div", [
 ["class", "form-group col-sm-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "phone_number"],
 ["placeholder", "Phone Number"],
@@ -1512,25 +1512,25 @@ l(n, 2, 0, u["\u0275nov"](n, 7).ngClassUntouched, u["\u0275nov"](n, 7).ngClassTo
 function X(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 265, "div", [
 ["class", "app flex-row align-items-center register_component"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 262, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](2, 0, null, 262, "div", [
 ["class", "container"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 259, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](4, 0, null, 259, "div", [
 ["class", "row justify-content-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 256, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](6, 0, null, 256, "div", [
 ["class", "col-sm-8"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 253, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](8, 0, null, 253, "div", [
 ["class", "card"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](10, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](10, 0, null, 4, "div", [
 ["class", "card-header"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](12, 0, null, 1, "strong", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Company Profile"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](16, 0, null, 237, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](12, 0, null, 1, "strong", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["Company Profile"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](16, 0, null, 237, "div", [
 ["class", "card-body"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, q)), u["\u0275did"](19, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, q)), u["\u0275did"](19, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
 ngIf: [0, "ngIf"]
 }, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](21, 0, null, 35, "div", [
 ["class", "row"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](23, 0, null, 8, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](23, 0, null, 8, "div", [
 ["class", "form-group col-sm-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](25, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](25, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "company_name"],
 ["placeholder", "Company name"],
@@ -1566,7 +1566,7 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](30, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](33, 0, null, 12, "div", [
 ["class", "form-group col-sm-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](35, 0, null, 9, "select", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](35, 0, null, 9, "select", [
 ["class", "custom-select form-control"]
 ], [
 [2, "ng-untouched", null],
@@ -1599,7 +1599,7 @@ update: "ngModelChange"
 ngForOf: [0, "ngForOf"]
 }, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](47, 0, null, 8, "div", [
 ["class", "form-group col-sm-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](49, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](49, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "cuisines"],
 ["placeholder", "Cuisines"],
@@ -1633,11 +1633,11 @@ return [l]
 model: [0, "model"]
 }, {
 update: "ngModelChange"
-}), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](54, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](58, 0, null, 1, "strong", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Contact Person"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](61, 0, null, 21, "div", [
+}), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](54, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](58, 0, null, 1, "strong", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["Contact Person"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](61, 0, null, 21, "div", [
 ["class", "row"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](63, 0, null, 8, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](63, 0, null, 8, "div", [
 ["class", "form-group col-sm-6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](65, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](65, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "full_name"],
 ["placeholder", "Full Name"],
@@ -1673,7 +1673,7 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](70, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](73, 0, null, 8, "div", [
 ["class", "form-group col-sm-6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](75, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](75, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "title"],
 ["placeholder", "Title"],
@@ -1707,11 +1707,11 @@ return [l]
 model: [0, "model"]
 }, {
 update: "ngModelChange"
-}), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](80, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](84, 0, null, 1, "strong", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Contact Information"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](87, 0, null, 32, "div", [
+}), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](80, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](84, 0, null, 1, "strong", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["Contact Information"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](87, 0, null, 32, "div", [
 ["class", "row"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](89, 0, null, 9, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](89, 0, null, 9, "div", [
 ["class", "form-group col-sm-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](91, 0, null, 6, "ng-select", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](91, 0, null, 6, "ng-select", [
 ["class", "bootstrap"],
 ["placeholder", "Country"]
 ], [
@@ -1750,7 +1750,7 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](97, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](100, 0, null, 8, "div", [
 ["class", "form-group col-sm-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](102, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](102, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "city"],
 ["placeholder", "City"],
@@ -1786,7 +1786,7 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](107, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](110, 0, null, 8, "div", [
 ["class", "form-group col-sm-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](112, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](112, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "state_province_region"],
 ["placeholder", "State / Province / Region"],
@@ -1822,9 +1822,9 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](117, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](121, 0, null, 21, "div", [
 ["class", "row"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](123, 0, null, 8, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](123, 0, null, 8, "div", [
 ["class", "form-group col-sm-8"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](125, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](125, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "street_address"],
 ["placeholder", "Street Address"],
@@ -1860,7 +1860,7 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](130, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](133, 0, null, 8, "div", [
 ["class", "form-group col-sm-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](135, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](135, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "zip_code"],
 ["placeholder", "ZIP Code"],
@@ -1896,13 +1896,13 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](140, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](144, 0, null, 17, "div", [
 ["class", "row"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, W)), u["\u0275did"](147, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, W)), u["\u0275did"](147, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
 ngIf: [0, "ngIf"]
 }, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, 1, null, J)), u["\u0275did"](150, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
 ngIf: [0, "ngIf"]
 }, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](152, 0, null, 8, "div", [
 ["class", "form-group col-sm-12"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](154, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](154, 0, null, 5, "input", [
 ["class", "form-control"],
 ["id", "website_address"],
 ["placeholder", "Website address"],
@@ -1938,9 +1938,9 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](159, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n\n"])), (l()(), u["\u0275eld"](163, 0, null, 89, "div", [
 ["class", ""]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](165, 0, null, 11, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](165, 0, null, 11, "div", [
 ["class", "form-check form-check-inline mr-1"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](167, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](167, 0, null, 5, "input", [
 ["class", "form-check-input"],
 ["id", "inline-checkbox1"],
 ["type", "checkbox"]
@@ -1974,9 +1974,9 @@ update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](172, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](174, 0, null, 1, "label", [
 ["class", "form-check-label"],
 ["for", "inline-checkbox1"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Digital Menu"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](178, 0, null, 0, "br", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](180, 0, null, 11, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Digital Menu"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](178, 0, null, 0, "br", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](180, 0, null, 11, "div", [
 ["class", "form-check form-check-inline mr-1"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](182, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](182, 0, null, 5, "input", [
 ["class", "form-check-input"],
 ["id", "inline-checkbox2"],
 ["type", "checkbox"]
@@ -2010,9 +2010,9 @@ update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](187, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](189, 0, null, 1, "label", [
 ["class", "form-check-label"],
 ["for", "inline-checkbox2"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Graphic Design"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](193, 0, null, 0, "br", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](195, 0, null, 11, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Graphic Design"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](193, 0, null, 0, "br", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](195, 0, null, 11, "div", [
 ["class", "form-check form-check-inline mr-1"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](197, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](197, 0, null, 5, "input", [
 ["class", "form-check-input"],
 ["id", "inline-checkbox3"],
 ["type", "checkbox"]
@@ -2046,9 +2046,9 @@ update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](202, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](204, 0, null, 1, "label", [
 ["class", "form-check-label"],
 ["for", "inline-checkbox3"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Branding"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](208, 0, null, 0, "br", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](210, 0, null, 11, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Branding"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](208, 0, null, 0, "br", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](210, 0, null, 11, "div", [
 ["class", "form-check form-check-inline mr-1"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](212, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](212, 0, null, 5, "input", [
 ["class", "form-check-input"],
 ["id", "inline-checkbox4"],
 ["type", "checkbox"]
@@ -2082,9 +2082,9 @@ update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](217, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](219, 0, null, 1, "label", [
 ["class", "form-check-label"],
 ["for", "inline-checkbox4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Marketing"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](223, 0, null, 0, "br", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](225, 0, null, 11, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Marketing"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](223, 0, null, 0, "br", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](225, 0, null, 11, "div", [
 ["class", "form-check form-check-inline mr-1"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](227, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](227, 0, null, 5, "input", [
 ["class", "form-check-input"],
 ["id", "inline-checkbox5"],
 ["type", "checkbox"]
@@ -2118,9 +2118,9 @@ update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](232, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](234, 0, null, 1, "label", [
 ["class", "form-check-label"],
 ["for", "inline-checkbox5"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Photo / Video"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](238, 0, null, 0, "br", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](240, 0, null, 11, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Photo / Video"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](238, 0, null, 0, "br", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](240, 0, null, 11, "div", [
 ["class", "form-check form-check-inline mr-1"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](242, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](242, 0, null, 5, "input", [
 ["class", "form-check-input"],
 ["id", "inline-checkbox6"],
 ["type", "checkbox"]
@@ -2154,9 +2154,9 @@ update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](247, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](249, 0, null, 1, "label", [
 ["class", "form-check-label"],
 ["for", "inline-checkbox6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Web"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](255, 0, null, 5, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["Web"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](255, 0, null, 5, "div", [
 ["class", "card-footer"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](257, 0, null, 2, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](257, 0, null, 2, "button", [
 ["class", "btn btn-sm btn-primary"],
 ["type", "submit"]
 ], null, [
@@ -2166,7 +2166,7 @@ var u = !0;
 return "click" === n && (u = !1 !== l.component.submitCompanyProfile() && u), u
 }, null, null)), (l()(), u["\u0275eld"](258, 0, null, 0, "i", [
 ["class", "fa fa-dot-circle-o"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, [" Submit"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"]))], function(l, n) {
+], null, null)), (l()(), u["\u0275ted"](-1, null, [" Submit"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"]))], function(l, n) {
 var e = n.component;
 l(n, 19, 0, e.message), l(n, 28, 0, e.company_data.name), l(n, 38, 0, e.company_data.dining_style), l(n, 43, 0, e.dining_style), l(n, 52, 0, e.company_data.cuisines), l(n, 68, 0, e.company_data.contact_person.fullname), l(n, 78, 0, e.company_data.contact_person.title), l(n, 92, 0, e.countries, !0, "Country"), l(n, 95, 0, e.company_data.contact_information.country), l(n, 105, 0, e.company_data.contact_information.city), l(n, 115, 0, e.company_data.contact_information.state_province_region), l(n, 128, 0, e.company_data.contact_information.street_address), l(n, 138, 0, e.company_data.contact_information.zip_code), l(n, 147, 0, !1), l(n, 150, 0, !1), l(n, 157, 0, e.company_data.contact_information.website_address), l(n, 170, 0, e.company_data.options.digital_menu), l(n, 185, 0, e.company_data.options.graphic_design), l(n, 200, 0, e.company_data.options.branding), l(n, 215, 0, e.company_data.options.marketing), l(n, 230, 0, e.company_data.options.photo_video), l(n, 245, 0, e.company_data.options.web)
 }, function(l, n) {
@@ -2221,7 +2221,7 @@ function ll(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 1, "div", [
 ["class", "alert alert-danger"],
 ["role", "alert"]
-], null, null, null)), (l()(), u["\u0275ted"](1, null, ["\n ", "\n "]))], null, function(l, n) {
+], null, null)), (l()(), u["\u0275ted"](1, null, ["\n ", "\n "]))], null, function(l, n) {
 l(n, 1, 0, n.component.message)
 })
 }
@@ -2229,29 +2229,29 @@ l(n, 1, 0, n.component.message)
 function nl(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 58, "div", [
 ["class", "app flex-row align-items-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](2, 0, null, 55, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](2, 0, null, 55, "div", [
 ["class", "container"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](4, 0, null, 52, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](4, 0, null, 52, "div", [
 ["class", "row justify-content-center"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](6, 0, null, 49, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](6, 0, null, 49, "div", [
 ["class", "col-md-8"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](8, 0, null, 46, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](8, 0, null, 46, "div", [
 ["class", "card-group mb-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](10, 0, null, 43, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](10, 0, null, 43, "div", [
 ["class", "card p-4"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](12, 0, null, 40, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](12, 0, null, 40, "div", [
 ["class", "card-body"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](14, 0, null, 1, "h1", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Login"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275and"](16777216, null, 1, null, ll)), u["\u0275did"](18, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](14, 0, null, 1, "h1", [], null, null)), (l()(), u["\u0275ted"](-1, null, ["Login"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275and"](16777216, null, 1, null, ll)), u["\u0275did"](18, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
 ngIf: [0, "ngIf"]
-}, null), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](20, 0, null, 1, "p", [], null, null, null)), (l()(), u["\u0275ted"](-1, null, [" Send random password to your email"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](23, 0, null, 14, "div", [
+}, null), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](20, 0, null, 1, "p", [], null, null)), (l()(), u["\u0275ted"](-1, null, [" Send random password to your email"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](23, 0, null, 14, "div", [
 ["class", "input-group mb-3"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](25, 0, null, 4, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](25, 0, null, 4, "div", [
 ["class", "input-group-prepend"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](27, 0, null, 1, "span", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](27, 0, null, 1, "span", [
 ["class", "input-group-text"]
-], null, null, null)), (l()(), u["\u0275eld"](28, 0, null, 0, "i", [
+], null, null)), (l()(), u["\u0275eld"](28, 0, null, 0, "i", [
 ["class", "icon-user"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](31, 0, null, 5, "input", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](31, 0, null, 5, "input", [
 ["class", "form-control"],
 ["placeholder", "Email or customer id"],
 ["type", "text"]
@@ -2286,9 +2286,9 @@ model: [0, "model"]
 update: "ngModelChange"
 }), u["\u0275prd"](2048, null, h.NgControl, null, [h.NgModel]), u["\u0275did"](36, 16384, null, 0, h.NgControlStatus, [h.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](39, 0, null, 12, "div", [
 ["class", "row"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](41, 0, null, 9, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](41, 0, null, 9, "div", [
 ["class", "col-6"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](43, 0, null, 1, "button", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](43, 0, null, 1, "button", [
 ["class", "btn btn-primary px-4"],
 ["type", "button"]
 ], null, [
@@ -2327,9 +2327,9 @@ data: {}
 function tl(l) {
 return u["\u0275vid"](2, [(l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](1, 0, null, 0, "div", [
 ["class", "tooltip-arrow arrow"]
-], null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](3, 0, null, 1, "div", [
+], null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](3, 0, null, 1, "div", [
 ["class", "tooltip-inner"]
-], null, null, null)), u["\u0275ncd"](null, 0), (l()(), u["\u0275ted"](-1, null, ["\n"]))], null, null)
+], null, null)), u["\u0275ncd"](null, 0), (l()(), u["\u0275ted"](-1, null, ["\n"]))], null, null)
 }
 var ol = u["\u0275ccf"]("bs-tooltip-container", S, function(l) {
 return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, 1, "bs-tooltip-container", [

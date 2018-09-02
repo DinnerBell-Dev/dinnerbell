@@ -24597,8 +24597,8 @@ webpackJsonp([4], {
                         id: "restaurant_manager",
                         name: "Restaurant Manager"
                     }, {
-                        id: "super_visior",
-                        name: "Super Visior"
+                        id: "Supervisor",
+                        name: "Supervisor"
                     }], this.employee_roles = ["Host", "Server", "Chef"], this.dining_style = ["Caf\xe9 / Bistro", "Fast food", "Fast casual", "Casual dining", "Fine dining", "Other"]
                 }
                 return e.prototype.getCountries = function() {
@@ -25071,7 +25071,7 @@ webpackJsonp([4], {
                 name: "User Management",
                 url: "/dashboard/super/usermanage",
                 icon: "icon-user",
-                role: "super_visior"
+                role: "Supervisor"
             }, {
                 name: "Account Setting",
                 url: "/dashboard/admin/account_setting",

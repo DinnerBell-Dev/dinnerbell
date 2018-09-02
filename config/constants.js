@@ -27,7 +27,7 @@ module.exports = {
   },
   'role_type': {
     'restaurant_manager': 'restaurant_manager',
-    'super_visior': 'super_visior'
+    'Supervisor': 'Supervisor'
   },
   'employee_role': {
     'server': 'Server',

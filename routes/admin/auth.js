@@ -180,15 +180,15 @@ router.post('/register_company', function(req, res) {
       });
       var restaurant = restaurant
       console.log('restaurant=>',restaurant)
-      User.findOne({'role':constants.role_type.super_visior}, function (err, super_visior) {
-        if (err || !super_visior) {
+      User.findOne({'role':constants.role_type.Supervisor}, function (err, supervisor) {
+        if (err || !Supervisor) {
           return res.json({
             success: false,
             error: constants.errors.server_error
           });
         } else {
-          User.findOne({'role':constants.role_type.super_visior}, function (err, super_visior) {
-            if (err || !super_visior) {
+          User.findOne({'role':constants.role_type.Supervisor}, function (err, Supervisor) {
+            if (err || !Supervisor) {
               return res.json({
                 success: false,
                 error: constants.errors.server_error
@@ -249,7 +249,7 @@ router.post('/register_company', function(req, res) {
                               `
               var data = {
                 from: constants.mailgun.from,
-                to: super_visior.email,
+                to: Supervisor.email,
                 subject: subject,
                 html: html
               };
