@@ -1,3 +1,9 @@
+// FILE DESCRIPTION REQUIRED
+// FUNCTION DESCRIPTION REQUIRED
+
+
+
+
 var mongoose = require('mongoose');
 var passport = require('passport');
 var config = require('../config/database');
@@ -23,7 +29,7 @@ router.post('/signup', function(req, res) {
       // });
       
       res.writeHeader(200, {"Content-Type": "text/html"});  
-      res.write("<h2>Same account aready exist.</h2>");  
+      res.write("<h2>Account already exist.</h2>");  
       res.end();  
     } else {
       var newRestaurant = new Restaurant();
@@ -50,8 +56,10 @@ router.post('/signup', function(req, res) {
         //     username: newUser.username
         //   }
         // });
+
+
         res.writeHeader(200, {"Content-Type": "text/html"});  
-        res.write("<h2>Registered Successfully, please confirm on your Mobile Device</h2>");  
+        res.write("<h2>Registered Successfully, please confirm on your mobile device</h2>");  
         res.end();  
       });
     }
@@ -113,6 +121,11 @@ router.post('/signin', function(req, res) {
     }
   });
 });
+
+
+// TEMPORARY PASSWORD 
+
+
 router.post('/send_password', function(req, res) {
   var subject = 'DinnerBell recovery password.'
   var randomPass = Math.random().toString(36).substring(6);
@@ -158,7 +171,7 @@ router.post('/send_password', function(req, res) {
 router.get('/test', function(req,res){
   var data = {
     from: constants.mailgun.from,
-    to: "petrotalks@gmail.com",
+    to: "ding@dinnerbell.us",
     subject: "DINNERBELL TEST MESSAGE",
     html: "<p>Check USERS.JS to fix this message</p>"
   };
