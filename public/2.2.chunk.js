@@ -2195,16 +2195,16 @@ type: "email"
 else {
 for (var e = 0; e < this.emailOrCustomerID.length; e++) {
 var u = this.emailOrCustomerID.charAt(e);
-if (!(u >= "0" && u <= "9")) return void(this.message = "Incorrect customer id type.")
+if (!(u >= "0" && u <= "9")) return void(this.message = "Incorrect customer ID type.")
 }
-if (6 !== this.emailOrCustomerID.length) return void(this.message = "Customer id length should be 6.");
+if (6 !== this.emailOrCustomerID.length) return void(this.message = "Customer ID length should be at least 6 characters.");
 n = {
 emailOrCustomerID: this.emailOrCustomerID,
 type: "customer_id"
 }
 }
 this.message = "", this.authservice.sendPassword(n).subscribe(function(n) {
-l.message = n.success ? "successfully sent, please check your email" : n.error.message
+l.message = n.success ? "Your temporary password has been sent to your email." : n.error.message
 })
 } else this.message = "Insert your email or customer ID."
 }, l.prototype.validateEmail = function(l) {
@@ -2243,7 +2243,7 @@ return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, null, 58, "div", [
 ["class", "card-body"]
 ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](14, 0, null, null, 1, "h1", [], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Login"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275and"](16777216, null, null, 1, null, ll)), u["\u0275did"](18, 16384, null, 0, g.NgIf, [u.ViewContainerRef, u.TemplateRef], {
 ngIf: [0, "ngIf"]
-}, null), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](20, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, [" Send random password to your email"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](23, 0, null, null, 14, "div", [
+}, null), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](20, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, [" Send temporary password to your email"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](23, 0, null, null, 14, "div", [
 ["class", "input-group mb-3"]
 ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](25, 0, null, null, 4, "div", [
 ["class", "input-group-prepend"]
