@@ -853,7 +853,7 @@ n.success ? (l.message = null, l.phone_verified = n.success) : l.message = "Inva
 }, l.prototype.validateForm = function() {
 var l = this.user.email,
 n = this.user.password;
-return n !== this.user.password_conf ? (this.message = "Passwords did not matched", !1) : !(!this.checkPasswordStrenth(n) || (this.phone_verified ? !this.validateEmail(l) && (this.message = "Email validation failed", 1) : (this.message = "You have to do verify phone", 1)))
+return n !== this.user.password_conf ? (this.message = "Passwords did not matched", !1) : !(!this.checkPasswordStrenth(n) || (this.phone_verified ? !this.validateEmail(l) && (this.message = "Email validation failed", 1) : (this.message = "Please verify your phone number!", 1)))
 }, l.prototype.checkPasswordStrenth = function(l) {
 if (l.length < 6) return this.message = "Password should be at least 6 characters long", !1;
 for (var n = !1, e = !1, u = !1, t = 0; t < l.length; t++) {
