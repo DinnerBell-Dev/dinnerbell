@@ -320,9 +320,9 @@ router.post('/change_password', function(req, res){
 });
 
 router.post('/send_password', function(req, res) {
-  var subject = 'DinnerBell recovery password.'
+  var subject = 'DinnerBell recovery password'
   var randomPass = Math.random().toString(36).substring(6);
-  var html = `Your temp password is <strong>${randomPass}</strong><br><a href='${constants.admin_site_url}'>Click here to login</a> <br> This password is available for an hour`
+  var html = `Your temporary password is <strong>${randomPass}</strong><br><br>You can change your password any time at your <a href='${constants.admin_site_url}'>account settings</a><br>`
 
   User.findOne({$or:[ {'customer_id': req.body.emailOrCustomerID}, {'email': req.body.emailOrCustomerID}]}, function(err, user){
     if (err) {
