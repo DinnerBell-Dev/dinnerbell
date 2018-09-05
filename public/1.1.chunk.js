@@ -1178,61 +1178,97 @@ webpackJsonp([1], {
       })
     }
 
-    function N(l) {
-      return u["\u0275vid"](0, [(l()(), u["\u0275eld"](0, 0, null, null, 241, "div", [["class",
-          "card-body"]], [[2, "collapse", null], [4, "display", null], [2, "in", null], [2,
-          "show", null], [1, "aria-expanded", 0], [1, "aria-hidden", 0], [2, "collapsing",
-          null]], [[null, "collapsed"], [null, "expanded"]], function(l, n, e) {
-          var u = !0,
-            t = l.component;
-          return "collapsed" === n && (u = !1 !== t.collapsed(e) && u), "expanded" === n && (u = !
-            1 !== t.expanded(e) && u), u
-        }, null, null)), u["\u0275did"](1, 16384, null, 0, f, [u.ElementRef, u.Renderer2], {
-          collapse: [0, "collapse"]
-        }, {
-          collapsed: "collapsed",
-          expanded: "expanded"
-        }), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275and"](16777216,
-          null, null, 1, null, R)), u["\u0275did"](4, 16384, null, 0, o.NgIf, [u.ViewContainerRef,
-          u.TemplateRef], {
-          ngIf: [0, "ngIf"]
-        }, null), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](6, 0,
-          null, null, 35, "div", [["class", "row"]], null, null, null, null, null)), (l()(), u[
-          "\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](8, 0, null, null, 8,
-          "div", [["class", "form-group col-sm-4"]], null, null, null, null, null)), (l()(), u[
-          "\u0275ted"](-1, null, ["\n            "])), (l()(), u["\u0275eld"](10, 0, null, null, 5,
-          "input", [["class", "form-control"], ["id", "company_name"], ["placeholder",
-            "Company name"], ["type", "text"]], [[2, "ng-untouched", null], [2, "ng-touched",
-            null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2,
-            "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null,
-            "input"], [null, "blur"], [null, "compositionstart"], [null, "compositionend"]],
-          function(l, n, e) {
-            var t = !0,
-              o = l.component;
-            return "input" === n && (t = !1 !== u["\u0275nov"](l, 11)._handleInput(e.target.value) &&
-                t), "blur" === n && (t = !1 !== u["\u0275nov"](l, 11).onTouched() && t),
-              "compositionstart" === n && (t = !1 !== u["\u0275nov"](l, 11)._compositionStart() &&
-                t), "compositionend" === n && (t = !1 !== u["\u0275nov"](l, 11)._compositionEnd(e
-                .target.value) && t), "ngModelChange" === n && (t = !1 !== (o.company_data.company_profile
-                .name = e) && t), t
-          }, null, null)), u["\u0275did"](11, 16384, null, 0, m.DefaultValueAccessor, [u.Renderer2,
-          u.ElementRef, [2, m.COMPOSITION_BUFFER_MODE]], null, null), u["\u0275prd"](1024, null, m.NG_VALUE_ACCESSOR,
-          function(l) {
-            return [l]
-          }, [m.DefaultValueAccessor]), u["\u0275did"](13, 671744, null, 0, m.NgModel, [[8, null],
-          [8, null], [8, null], [2, m.NG_VALUE_ACCESSOR]], {
-          model: [0, "model"]
-        }, {
-          update: "ngModelChange"
-        }), u["\u0275prd"](2048, null, m.NgControl, null, [m.NgModel]), u["\u0275did"](15, 16384,
-          null, 0, m.NgControlStatus, [m.NgControl], null, null), (l()(), u["\u0275ted"](-1, null,
-          ["\n          "])), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u[
-          "\u0275eld"](18, 0, null, null, 12, "div", [["class", "form-group col-sm-4"]], null,
-          null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n              "])), (l()(),
-          u["\u0275eld"](20, 0, null, null, 9, "select", [["class", "custom-select form-control"]],
-            [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2,
-              "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending",
-              null]], [[null, "ngModelChange"], [null, "change"], [null, "blur"]],
+
+
+
+
+
+
+
+        function N(l) {
+            return 
+            u["\u0275vid"](0, [(l()(), 
+            u["\u0275eld"](0, 0, null, null, 241, "div", [["class", "card-body"]], 
+            [
+                [2, "collapse", null],
+                [4, "display", null],
+                [2, "in", null],
+                [2, "show", null],
+                [1, "aria-expanded", 0],
+                [1, "aria-hidden", 0],
+                [2, "collapsing", null]
+            ], [
+                [null, "collapsed"],
+                [null, "expanded"]
+            ], 
+
+            function(l, n, e) {
+                var u = !0,
+                    t = l.component;
+                return "collapsed" === n && (u = !1 !== t.collapsed(e) && u), "expanded" === n && (u = !1 !== t.expanded(e) && u), u
+            }, null, null)), 
+
+                    u["\u0275did"](1, 16384, null, 0, f, [u.ElementRef, u.Renderer2], {collapse: [0, "collapse"]}, {collapsed: "collapsed", expanded: "expanded"}), 
+            (l()(), u["\u0275ted"](-1, null, ["\n "])), 
+            (l()(), u["\u0275and"](16777216, null, null, 1, null, R)), u["\u0275did"](4, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {ngIf: [0, "ngIf"]}, null), (l()(), u["\u0275ted"](-1, null, ["\n "])), 
+            (l()(), u["\u0275eld"](6, 0, null, null, 35, "div", [["class", "row"]], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), 
+            (l()(), u["\u0275eld"](8, 0, null, null, 8, "div", [["class", "form-group col-sm-4"]], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), 
+            (l()(), u["\u0275eld"](10, 0, null, null, 5, "input", [
+                ["class", "form-control"],
+                ["id", "company_name"],
+                ["placeholder", "Company name"],
+                ["type", "text"]
+            ], [
+                [2, "ng-untouched", null],
+                [2, "ng-touched", null],
+                [2, "ng-pristine", null],
+                [2, "ng-dirty", null],
+                [2, "ng-valid", null],
+                [2, "ng-invalid", null],
+                [2, "ng-pending", null]
+            ], [
+                [null, "ngModelChange"],
+                [null, "input"],
+                [null, "blur"],
+                [null, "compositionstart"],
+                [null, "compositionend"]
+
+
+            ], function(l, n, e) {
+                var t = !0,
+                    o = l.component;
+                return 
+                "input" === n && (t = !1 !== u["\u0275nov"](l, 11)._handleInput(e.target.value) && t), 
+                "blur" === n && (t = !1 !== u["\u0275nov"](l, 11).onTouched() && t), 
+                "compositionstart" === n && (t = !1 !== u["\u0275nov"](l, 11)._compositionStart() && t), 
+                "compositionend" === n && (t = !1 !== u["\u0275nov"](l, 11)._compositionEnd(e.target.value) && t), 
+                "ngModelChange" === n && (t = !1 !== (o.company_data.company_profile.name = e) && t), t
+            }, null, null)), u["\u0275did"](11, 16384, null, 0, m.DefaultValueAccessor, [u.Renderer2, u.ElementRef, [2, m.COMPOSITION_BUFFER_MODE]], null, null), u["\u0275prd"](1024, null, m.NG_VALUE_ACCESSOR, function(l) {
+                return [l]
+            }, [m.DefaultValueAccessor]), u["\u0275did"](13, 671744, null, 0, m.NgModel, [
+                [8, null],
+                [8, null],
+                [8, null],
+                [2, m.NG_VALUE_ACCESSOR]], {model: [0, "model"]}, {update: "ngModelChange"}), u["\u0275prd"](2048, null, m.NgControl, null, [m.NgModel]), u["\u0275did"](15, 16384, null, 0, m.NgControlStatus, [m.NgControl], null, null), 
+            (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n "])), 
+            (l()(), u["\u0275eld"](18, 0, null, null, 12, "div", [["class", "form-group col-sm-4"]], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), 
+            (l()(), u["\u0275eld"](20, 0, null, null, 9, "select", [["class", "custom-select form-control"]
+            ], [
+                [2, "ng-untouched", null],
+                [2, "ng-touched", null],
+                [2, "ng-pristine", null],
+                [2, "ng-dirty", null],
+                [2, "ng-valid", null],
+                [2, "ng-invalid", null],
+                [2, "ng-pending", null]
+            ], [
+                [null, "ngModelChange"],
+                [null, "change"],
+                [null, "blur"]
+
+
+
+
             function(l, n, e) {
               var t = !0,
                 o = l.component;
