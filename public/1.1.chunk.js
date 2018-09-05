@@ -1897,19 +1897,25 @@ webpackJsonp([1], {
                 ["class", "card-header"]
             ], null, [
                 [null, "click"]
+
+
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0,
                     t = l.component;
                 return "click" === n && (u = 0 != (t.passwordCollapsed = !t.passwordCollapsed) && u), u
-            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n        Change Password\n        "])), (l()(), u["\u0275eld"](26, 0, null, null, 7, "div", [
+            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Change Password"])), (l()(), u["\u0275eld"](26, 0, null, null, 7, "div", [
                 ["class", "card-actions"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](28, 0, null, null, 4, "a", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](28, 0, null, null, 4, "a", [
                 ["class", "btn-setting"]
             ], null, null, null, null, null)), (l()(), u["\u0275and"](16777216, null, null, 1, null, A)), u["\u0275did"](30, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {
                 ngIf: [0, "ngIf"]
             }, null), (l()(), u["\u0275and"](16777216, null, null, 1, null, k)), u["\u0275did"](32, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {
-                ngIf: [0, "ngIf"]
-            }, null), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275eld"](36, 0, null, null, 38, "div", [
+                ngIf: [0, "ngIf"]}, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](36, 0, null, null, 38, "div", [
                 ["class", "card-body"]
             ], [
                 [2, "collapse", null],
@@ -1922,6 +1928,11 @@ webpackJsonp([1], {
             ], [
                 [null, "collapsed"],
                 [null, "expanded"]
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0,
                     t = l.component;
@@ -1931,11 +1942,11 @@ webpackJsonp([1], {
             }, {
                 collapsed: "collapsed",
                 expanded: "expanded"
-            }), (l()(), u["\u0275ted"](-1, null, ["\n        \n        "])), (l()(), u["\u0275eld"](39, 0, null, null, 31, "div", [
+            }), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](39, 0, null, null, 31, "div", [
                 ["class", "row"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](41, 0, null, null, 8, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](41, 0, null, null, 8, "div", [
                 ["class", "form-group col-sm-4"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n            "])), (l()(), u["\u0275eld"](43, 0, null, null, 5, "input", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](43, 0, null, null, 5, "input", [
                 ["class", "form-control"],
                 ["id", "old_password"],
                 ["placeholder", "Old Password"],
@@ -1954,6 +1965,11 @@ webpackJsonp([1], {
                 [null, "blur"],
                 [null, "compositionstart"],
                 [null, "compositionend"]
+
+
+
+
+
             ], function(l, n, e) {
                 var t = !0,
                     o = l.component;
@@ -1969,9 +1985,9 @@ webpackJsonp([1], {
                 model: [0, "model"]
             }, {
                 update: "ngModelChange"
-            }), u["\u0275prd"](2048, null, m.NgControl, null, [m.NgModel]), u["\u0275did"](48, 16384, null, 0, m.NgControlStatus, [m.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](51, 0, null, null, 8, "div", [
+            }), u["\u0275prd"](2048, null, m.NgControl, null, [m.NgModel]), u["\u0275did"](48, 16384, null, 0, m.NgControlStatus, [m.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](51, 0, null, null, 8, "div", [
                 ["class", "form-group col-sm-4"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n            "])), (l()(), u["\u0275eld"](53, 0, null, null, 5, "input", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](53, 0, null, null, 5, "input", [
                 ["class", "form-control"],
                 ["id", "new_password"],
                 ["placeholder", "New Password"],
@@ -1990,6 +2006,11 @@ webpackJsonp([1], {
                 [null, "blur"],
                 [null, "compositionstart"],
                 [null, "compositionend"]
+
+
+
+
+
             ], function(l, n, e) {
                 var t = !0,
                     o = l.component;
@@ -2007,7 +2028,7 @@ webpackJsonp([1], {
                 update: "ngModelChange"
             }), u["\u0275prd"](2048, null, m.NgControl, null, [m.NgModel]), u["\u0275did"](58, 16384, null, 0, m.NgControlStatus, [m.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](61, 0, null, null, 8, "div", [
                 ["class", "form-group col-sm-4"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n            "])), (l()(), u["\u0275eld"](63, 0, null, null, 5, "input", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](63, 0, null, null, 5, "input", [
                 ["class", "form-control"],
                 ["id", "new_password_confirm"],
                 ["placeholder", "New Password Conf"],
@@ -2026,6 +2047,11 @@ webpackJsonp([1], {
                 [null, "blur"],
                 [null, "compositionstart"],
                 [null, "compositionend"]
+
+
+
+
+
             ], function(l, n, e) {
                 var t = !0,
                     o = l.component;
@@ -2041,27 +2067,37 @@ webpackJsonp([1], {
                 model: [0, "model"]
             }, {
                 update: "ngModelChange"
-            }), u["\u0275prd"](2048, null, m.NgControl, null, [m.NgModel]), u["\u0275did"](68, 16384, null, 0, m.NgControlStatus, [m.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](72, 0, null, null, 1, "button", [
+            }), u["\u0275prd"](2048, null, m.NgControl, null, [m.NgModel]), u["\u0275did"](68, 16384, null, 0, m.NgControlStatus, [m.NgControl], null, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](72, 0, null, null, 1, "button", [
                 ["class", "btn btn-primary btn-block"],
                 ["type", "button"]
             ], null, [
                 [null, "click"]
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0;
                 return "click" === n && (u = !1 !== l.component.changePassword() && u), u
-            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Save\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275eld"](77, 0, null, null, 26, "div", [
+            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Save"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](77, 0, null, null, 26, "div", [
                 ["class", "card card-accent-primary"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275eld"](79, 0, null, null, 10, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](79, 0, null, null, 10, "div", [
                 ["class", "card-header"]
             ], null, [
                 [null, "click"]
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0,
                     t = l.component;
                 return "click" === n && (u = 0 != (t.employeeCollapsed = !t.employeeCollapsed) && u), u
-            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n        Employees\n        "])), (l()(), u["\u0275eld"](81, 0, null, null, 7, "div", [
+            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Employees"])), (l()(), u["\u0275eld"](81, 0, null, null, 7, "div", [
                 ["class", "card-actions"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](83, 0, null, null, 4, "a", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](83, 0, null, null, 4, "a", [
                 ["class", "btn-setting"]
             ], null, null, null, null, null)), (l()(), u["\u0275and"](16777216, null, null, 1, null, I)), u["\u0275did"](85, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {
                 ngIf: [0, "ngIf"]
@@ -2089,37 +2125,49 @@ webpackJsonp([1], {
             }, {
                 collapsed: "collapsed",
                 expanded: "expanded"
-            }), (l()(), u["\u0275ted"](-1, null, ["\n            "])), (l()(), u["\u0275eld"](94, 0, null, null, 4, "ul", [
+            }), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](94, 0, null, null, 4, "ul", [
                 ["class", "list-group employee_group"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n              "])), (l()(), u["\u0275and"](16777216, null, null, 1, null, V)), u["\u0275did"](97, 802816, null, 0, o.NgForOf, [u.ViewContainerRef, u.TemplateRef, u.IterableDiffers], {
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275and"](16777216, null, null, 1, null, V)), u["\u0275did"](97, 802816, null, 0, o.NgForOf, [u.ViewContainerRef, u.TemplateRef, u.IterableDiffers], {
                 ngForOf: [0, "ngForOf"]
-            }, null), (l()(), u["\u0275ted"](-1, null, ["\n            "])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](100, 0, null, null, 1, "button", [
+            }, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](100, 0, null, null, 1, "button", [
                 ["class", "btn btn-primary btn-block"],
                 ["type", "button"]
             ], null, [
                 [null, "click"]
+
+
+
+
+
+
             ], function(l, n, e) {
                 var t = !0;
                 return "click" === n && (t = !1 !== l.component.addNewEmployee(u["\u0275nov"](l, 182)) && t), t
-            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Add Employee\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n      \n    "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275eld"](105, 0, null, null, 23, "div", [
+            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Add Employee"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n \n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](105, 0, null, null, 23, "div", [
                 ["class", "card card-accent-primary"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275eld"](107, 0, null, null, 10, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](107, 0, null, null, 10, "div", [
                 ["class", "card-header"]
             ], null, [
                 [null, "click"]
+
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0,
                     t = l.component;
                 return "click" === n && (u = 0 != (t.seatingCollapsed = !t.seatingCollapsed) && u), u
-            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n        Seating\n        "])), (l()(), u["\u0275eld"](109, 0, null, null, 7, "div", [
+            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Seating"])), (l()(), u["\u0275eld"](109, 0, null, null, 7, "div", [
                 ["class", "card-actions"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](111, 0, null, null, 4, "a", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](111, 0, null, null, 4, "a", [
                 ["class", "btn-setting"]
             ], null, null, null, null, null)), (l()(), u["\u0275and"](16777216, null, null, 1, null, F)), u["\u0275did"](113, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {
                 ngIf: [0, "ngIf"]
             }, null), (l()(), u["\u0275and"](16777216, null, null, 1, null, P)), u["\u0275did"](115, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {
                 ngIf: [0, "ngIf"]
-            }, null), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275eld"](119, 0, null, null, 8, "div", [
+            }, null), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](119, 0, null, null, 8, "div", [
                 ["class", "card-body"]
             ], [
                 [2, "collapse", null],
@@ -2132,6 +2180,13 @@ webpackJsonp([1], {
             ], [
                 [null, "collapsed"],
                 [null, "expanded"]
+
+
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0,
                     t = l.component;
@@ -2141,28 +2196,35 @@ webpackJsonp([1], {
             }, {
                 collapsed: "collapsed",
                 expanded: "expanded"
-            }), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](122, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo\n          consequat.\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](125, 0, null, null, 1, "button", [
+            }), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](122, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo\n          consequat.\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](125, 0, null, null, 1, "button", [
                 ["class", "btn btn-primary btn-block"],
                 ["type", "button"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Save\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275eld"](130, 0, null, null, 23, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Save\n "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275eld"](130, 0, null, null, 23, "div", [
                 ["class", "card card-accent-primary"]
             ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275eld"](132, 0, null, null, 10, "div", [
                 ["class", "card-header"]
             ], null, [
                 [null, "click"]
+
+
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0,
                     t = l.component;
                 return "click" === n && (u = 0 != (t.stripeCollapsed = !t.stripeCollapsed) && u), u
-            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n        Stripe Account\n        "])), (l()(), u["\u0275eld"](134, 0, null, null, 7, "div", [
+            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["Stripe Account"])), (l()(), u["\u0275eld"](134, 0, null, null, 7, "div", [
                 ["class", "card-actions"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](136, 0, null, null, 4, "a", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](136, 0, null, null, 4, "a", [
                 ["class", "btn-setting"]
             ], null, null, null, null, null)), (l()(), u["\u0275and"](16777216, null, null, 1, null, D)), u["\u0275did"](138, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {
                 ngIf: [0, "ngIf"]
             }, null), (l()(), u["\u0275and"](16777216, null, null, 1, null, U)), u["\u0275did"](140, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {
                 ngIf: [0, "ngIf"]
-            }, null), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275eld"](144, 0, null, null, 8, "div", [
+            }, null), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](144, 0, null, null, 8, "div", [
                 ["class", "card-body"]
             ], [
                 [2, "collapse", null],
@@ -2175,6 +2237,12 @@ webpackJsonp([1], {
             ], [
                 [null, "collapsed"],
                 [null, "expanded"]
+
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0,
                     t = l.component;
@@ -2184,28 +2252,35 @@ webpackJsonp([1], {
             }, {
                 collapsed: "collapsed",
                 expanded: "expanded"
-            }), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](147, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo\n          consequat.\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](150, 0, null, null, 1, "button", [
+            }), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](147, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo\n          consequat.\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](150, 0, null, null, 1, "button", [
                 ["class", "btn btn-primary btn-block"],
                 ["type", "button"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Save\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275eld"](155, 0, null, null, 23, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Save\n "])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275eld"](155, 0, null, null, 23, "div", [
                 ["class", "card card-accent-primary"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275eld"](157, 0, null, null, 10, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](157, 0, null, null, 10, "div", [
                 ["class", "card-header"]
             ], null, [
                 [null, "click"]
+
+
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0,
                     t = l.component;
                 return "click" === n && (u = 0 != (t.opentableCollapsed = !t.opentableCollapsed) && u), u
-            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n        OpenTable Account\n        "])), (l()(), u["\u0275eld"](159, 0, null, null, 7, "div", [
+            }, null, null)), (l()(), u["\u0275ted"](-1, null, ["OpenTable Account"])), (l()(), u["\u0275eld"](159, 0, null, null, 7, "div", [
                 ["class", "card-actions"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](161, 0, null, null, 4, "a", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](161, 0, null, null, 4, "a", [
                 ["class", "btn-setting"]
             ], null, null, null, null, null)), (l()(), u["\u0275and"](16777216, null, null, 1, null, L)), u["\u0275did"](163, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {
                 ngIf: [0, "ngIf"]
             }, null), (l()(), u["\u0275and"](16777216, null, null, 1, null, B)), u["\u0275did"](165, 16384, null, 0, o.NgIf, [u.ViewContainerRef, u.TemplateRef], {
                 ngIf: [0, "ngIf"]
-            }, null), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275eld"](169, 0, null, null, 8, "div", [
+            }, null), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](169, 0, null, null, 8, "div", [
                 ["class", "card-body"]
             ], [
                 [2, "collapse", null],
@@ -2218,6 +2293,13 @@ webpackJsonp([1], {
             ], [
                 [null, "collapsed"],
                 [null, "expanded"]
+
+
+
+
+
+
+
             ], function(l, n, e) {
                 var u = !0,
                     t = l.component;
@@ -2227,10 +2309,10 @@ webpackJsonp([1], {
             }, {
                 collapsed: "collapsed",
                 expanded: "expanded"
-            }), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](172, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo\n          consequat.\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](175, 0, null, null, 1, "button", [
+            }), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275eld"](172, 0, null, null, 1, "p", [], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."])), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](175, 0, null, null, 1, "button", [
                 ["class", "btn btn-primary btn-block"],
                 ["type", "button"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Save\n        "])), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275ted"](-1, null, ["\n    "])), (l()(), u["\u0275ted"](-1, null, ["\n  "])), (l()(), u["\u0275ted"](-1, null, ["\n  "])), (l()(), u["\u0275eld"](181, 16777216, null, null, 54, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Save\n "])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275ted"](-1, null, ["\n "])), (l()(), u["\u0275ted"](-1, null, ["\n  "])), (l()(), u["\u0275ted"](-1, null, ["\n  "])), (l()(), u["\u0275eld"](181, 16777216, null, null, 54, "div", [
                 ["aria-hidden", "true"],
                 ["aria-labelledby", "myModalLabel"],
                 ["bsModal", ""],
@@ -2240,6 +2322,13 @@ webpackJsonp([1], {
             ], null, [
                 [null, "click"],
                 [null, "keydown.esc"]
+
+
+
+
+
+
+
             ], function(l, n, e) {
                 var t = !0;
                 return "click" === n && (t = !1 !== u["\u0275nov"](l, 182).onClick(e) && t), "keydown.esc" === n && (t = !1 !== u["\u0275nov"](l, 182).onEsc() && t), t
@@ -2248,19 +2337,19 @@ webpackJsonp([1], {
             ], 0, C.a, [u.ElementRef, u.ViewContainerRef, u.Renderer2, y.a], null, null), (l()(), u["\u0275ted"](-1, null, ["\n      "])), (l()(), u["\u0275eld"](184, 0, null, null, 50, "div", [
                 ["class", "modal-dialog"],
                 ["role", "document"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n        "])), (l()(), u["\u0275eld"](186, 0, null, null, 47, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](186, 0, null, null, 47, "div", [
                 ["class", "modal-content"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](188, 0, null, null, 4, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](188, 0, null, null, 4, "div", [
                 ["class", "modal-header"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n            "])), (l()(), u["\u0275eld"](190, 0, null, null, 1, "h4", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](190, 0, null, null, 1, "h4", [
                 ["class", "modal-title"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Employee Info"])), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275eld"](194, 0, null, null, 29, "div", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["Employee Info"])), (l()(), u["\u0275ted"](-1, null, ["\n          "])), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](194, 0, null, null, 29, "div", [
                 ["class", "modal-body"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n              "])), (l()(), u["\u0275eld"](196, 0, null, null, 26, "ul", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](196, 0, null, null, 26, "ul", [
                 ["class", "list-group employee_group"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n                "])), (l()(), u["\u0275eld"](198, 0, null, null, 23, "li", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](198, 0, null, null, 23, "li", [
                 ["class", "list-group-item"]
-            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n                  "])), (l()(), u["\u0275eld"](200, 0, null, null, 6, "div", [], null, null, null, null, null)), (l()(), u["\u0275eld"](201, 0, null, null, 5, "input", [
+            ], null, null, null, null, null)), (l()(), u["\u0275ted"](-1, null, ["\n"])), (l()(), u["\u0275eld"](200, 0, null, null, 6, "div", [], null, null, null, null, null)), (l()(), u["\u0275eld"](201, 0, null, null, 5, "input", [
                 ["class", "form-control"],
                 ["placeholder", "Enter your name"],
                 ["type", "text"]
