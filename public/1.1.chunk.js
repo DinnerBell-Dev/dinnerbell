@@ -1264,7 +1264,7 @@ webpackJsonp([1], {
             ], [
                 [null, "ngModelChange"],
                 [null, "change"],
-                [null, "blur"]
+                [null, "blur"]],
 
 
 
