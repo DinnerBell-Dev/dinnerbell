@@ -32097,11 +32097,7 @@ webpackJsonp([4], {
         var r = {
             production: !0, 
 
-
             backend_base_url: "https://nameless-earth-56961.herokuapp.com"
-            <!--
-            backend_base_url: "https://vast-taiga-29858.herokuapp.com"
-            -->
             
         }
     },
